@@ -8,5 +8,5 @@ rm -f ~/.ssh/config
 ln .ssh/config ~/.ssh/config
 
 rm -f ~/.tmux.conf
-ln .tmuxrc ~/.tmux.conf
+ln .tmux.conf ~/.tmux.conf
 
