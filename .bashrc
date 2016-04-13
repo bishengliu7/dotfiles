@@ -1,5 +1,7 @@
 
 
+alias fuck='sudo $(history -p \!\!)'
+
 alias x+="chmod +x"
 alias x-="chmod -x"
 
